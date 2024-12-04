@@ -1,12 +1,57 @@
-<<<<<<< HEAD
-# React + Vite
+# TODO App using React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the repository of the TODO App that I developed while learning React! This project is a simple yet functional TODO application that helps users manage their tasks efficiently.
 
-Currently, two official plugins are available:
+## Features
+- Add, edit, and delete tasks easily.
+- Mark tasks as complete or incomplete.
+- Interactive and user-friendly interface.
+- Uses React hooks for managing state.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# TODO_using_React
->>>>>>> 9d65ae60ef7841c73313aacfd26b765255f626de
+## Installation and Setup Instructions
+To get a local copy up and running, follow these simple steps:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/rohitkumarchaurasiya111/TODO_using_React.git
+   ```
+
+2. **Navigate to the project directory**
+   ```bash
+   cd TODO_using_React
+   ```
+
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Run the app**
+   ```bash
+   npm start
+   ```
+   This will run the app in development mode.
+   
+5. **Open the app**
+   Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+## Technologies Used
+- **React**: A JavaScript library for building user interfaces.
+- **CSS**: For styling the components.
+- **JavaScript**: For application logic.
+
+## Project Structure
+- **public/**: Contains the HTML file to include the React application.
+- **src/**: Contains all the components and styling for the TODO app.
+  - **components/**: The reusable components for the app.
+  - **App.js**: The main component that brings everything together.
+
+## Contributing
+Feel free to fork this repository and contribute to improving the TODO app. Pull requests are welcome!
+
+## Acknowledgements
+- Thanks to the React documentation for providing helpful examples and guides.
+
+## Contact
+If you have any questions, feel free to open an issue or contact me via GitHub: [rohitkumarchaurasiya111](https://github.com/rohitkumarchaurasiya111).
+
